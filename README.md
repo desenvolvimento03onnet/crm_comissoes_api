@@ -112,6 +112,8 @@
 
 ## Rotas
 
+### Rotas - MK
+
 - **/api/Sale** — Recebe o código do contrato e, se dentro de um período de 4 meses, retorna o código do cliente, o nome do cliente, a cidade, o código do contrato, a data da operação, o código do operador que fez a venda, o usuário do operador, a cidade o operador, o setor do operador, o código da 1ª fatura após a operação, o valor do plano e o dia de vencimento;
 
 - **/api/Renovation** — Recebe o código do contrato e, se dentro de um período de 4 meses, retorna o código do cliente, o nome do cliente, a cidade, o código do contrato, a data da operação, o código do operador que fez a renovação, o usuário do operador, a cidade o operador, o setor do operador, o código da 1ª fatura após a operação, o valor do plano antigo, o plano antigo, o valor do plano novo, o plano novo e o dia de vencimento;
@@ -125,3 +127,5 @@
 - **/api/FlatProducts** — Recebe o código do plano e retorna todos os produtos que fazem parte da composição dele;
 
 - **/api/Recurrent** — Recebe o código da fatura e a data da operação e verifica se essa fatura está cadastrada para pagamento recorrente;
+
+### Rotas - Local
