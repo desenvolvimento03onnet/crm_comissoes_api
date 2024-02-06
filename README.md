@@ -67,7 +67,7 @@
         }
       }
     }%%
-    pie title Rotas
+    pie title Rotas - MK
     "Concluído" : 100
 ```
 ```mermaid
@@ -76,12 +76,14 @@
         'theme': 'base',
         'themeVariables': {
           'pie1': '#00FF00',
+          'pie2': '#00FF00',
           'primaryTextColor': '#FFFFFF'
         }
       }
     }%%
-    pie title Documentação
+    pie title Documentação - MK
     "Concluído" : 50
+    "Em Desenvolvimento" : 50
 ```
 ```mermaid
     %%{
