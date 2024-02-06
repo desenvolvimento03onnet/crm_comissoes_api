@@ -75,15 +75,39 @@
       init: {
         'theme': 'base',
         'themeVariables': {
-          'pie1': '#00FF00',
-          'pie2': '#006400',
+          'pie1': '#0000FF',
           'primaryTextColor': '#FFFFFF'
         }
       }
     }%%
     pie title Documentação - MK
-    "Concluído" : 50
-    "Em Desenvolvimento" : 50
+    "Concluído" : 100
+```
+```mermaid
+    %%{
+      init: {
+        'theme': 'base',
+        'themeVariables': {
+          'pie1': '#006400',
+          'primaryTextColor': '#FFFFFF'
+        }
+      }
+    }%%
+    pie title Rotas - Local
+    "Em Desenvolvimento" : 100
+```
+```mermaid
+    %%{
+      init: {
+        'theme': 'base',
+        'themeVariables': {
+          'pie1': '#006400',
+          'primaryTextColor': '#FFFFFF'
+        }
+      }
+    }%%
+    pie title Documentação - Local
+    "Em Desenvolvimento" : 100
 ```
 
 ## Rotas
