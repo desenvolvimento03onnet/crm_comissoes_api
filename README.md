@@ -45,7 +45,7 @@
 - [X] Back-end com rotas e variáveis referentes ao banco do MK
 - [X] Documentação completa do back do MK, com formatação
 - [ ] Back-end com rotas e variáveis referentes ao banco local
-- [ ] Documentação completa do back do MK, com formatação
+- [ ] Documentação completa do back local, com formatação
 
 </div>
 
