@@ -43,7 +43,7 @@
 ### Check-list do Desenvolvimento
 
 - [X] Back-end com rotas e variáveis referentes ao banco do MK
-- [ ] Documentação completa do back do MK, com formatação
+- [X] Documentação completa do back do MK, com formatação
 - [ ] Back-end com rotas e variáveis referentes ao banco local
 - [ ] Documentação completa do back do MK, com formatação
 
